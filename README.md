@@ -21,7 +21,7 @@ I enjoy collaborating with **hardware/software engineers, scientists, and domain
 
 ## 📚 Education  
 🎓 **Ph.D. in Biomedical Engineering** – Boston University *(Expected May 2025)*  
-🎓 **M.S. in Biomedical Engineering** – Boston University *(December 2022)*
+🎓 **M.S. in Biomedical Engineering** – Boston University *(December 2022)*  
 🎓 **B.S. in Biomedical Engineering** – University of Rhode Island *(May 2019)*
 
 ---  
