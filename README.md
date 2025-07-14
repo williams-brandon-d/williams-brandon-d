@@ -1,4 +1,4 @@
-# Hi there, I'm Brandon Williams! 👋  
+# Hi there, I'm Brandon Williams!  
 
 🚀 **Generating Insight from Complex Biomedial Data | Ph.D. Candidate in Biomedical Engineering**  
 📍 Boston, MA | [LinkedIn](https://www.linkedin.com/in/brandon-david-williams/)  
