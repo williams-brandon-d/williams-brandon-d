@@ -1,5 +1,3 @@
-# Brandon Williams  
-
 🚀 **Generating Insight from Complex Biomedical Data**  
 📍 Boston, MA | [LinkedIn](https://www.linkedin.com/in/brandon-david-williams/)  
 
